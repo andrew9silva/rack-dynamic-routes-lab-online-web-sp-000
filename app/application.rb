@@ -9,5 +9,5 @@ class Application
 
     if req.path ==" /"
   end
-  
+
 end
